@@ -1,15 +1,6 @@
-<h1 align="center">Hi 👋, I'm Varun Athre</h1>
+<h1 align="center">Hi 👋, I'm Varun @thre</h1>
 <h3 align="center">Growing With Gratitude !!</h3>
-<img align="right" alt="coding" width="400" src="C:\Users\VARUN ATHRE\Downloads\img11.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varu12112003&label=Profile%20views&color=0e75b6&style=flat" alt="varu12112003" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/varun-m-athre](https://www.linkedin.com/in/varun-m-athre)
-
-- 📫 How to reach me **varunathreimp@gmail.com**
-
-- 📄 Know about my experiences [VARUN@CV](VARUN@CV)
-
-- ⚡ **Growing With Gratitude**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
