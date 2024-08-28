@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Varun @thre</h1>
-<h3 align="center">Growing With Gratitude !!</h3>
 
 
 <h3 align="left">Connect with me:</h3>
