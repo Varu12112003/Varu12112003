@@ -13,10 +13,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/varun_m_athre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun_m_athre" height="30" width="40" /></a>
 </p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=varu12112003&" alt="varu12112003" /></p><br>
 
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=varu12112003&" alt="varu12112003" /></p>
-<br>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=varu12112003&show_icons=true&locale=en" alt="varu12112003" /></p>
 
 
